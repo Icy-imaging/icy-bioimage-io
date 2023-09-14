@@ -39,6 +39,13 @@ config:
     - model
   default_type: model
   url_root: https://github.com/Icy-imaging/icy-bioimage-io/blob/main
+  docs: https://icy.bioimageanalysis.org/
+  contact:
+    - name: Jean-Christophe Olivo Marin
+      email: jcolivo@pasteur.fr
+      affiliation:
+        - name: IP
+          url: https://www.pasteur.fr/en
 
 collection:
   - id: icy
